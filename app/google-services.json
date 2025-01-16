@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "834647099822",
+    "firebase_url": "https://shoppingapp-d6a9c-default-rtdb.firebaseio.com",
+    "project_id": "shoppingapp-d6a9c",
+    "storage_bucket": "shoppingapp-d6a9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834647099822:android:5f133d2faabfc7a3c4e03f",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NanhSa_qVRSrbw_NsqLVSbpIA9TCr3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834647099822:android:429126c28bc35648c4e03f",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NanhSa_qVRSrbw_NsqLVSbpIA9TCr3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834647099822:android:473508aae6c3cbc5c4e03f",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmantra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NanhSa_qVRSrbw_NsqLVSbpIA9TCr3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

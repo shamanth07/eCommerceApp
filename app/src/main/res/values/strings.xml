@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ECommerceApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="product_name">Name: %1$s</string>
+    <string name="product_price">Price: $%1$s</string>
+    <string name="product_description">Description: %1$s</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
